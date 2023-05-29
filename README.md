@@ -57,6 +57,6 @@ E Comm CashbackAmount - The average cashback amount the customer received last m
 
 
 
-By using these data points, we aim to build a predictive model that can accurately identify potential customer churn and assist the company in retaining valuable customers.
+**By using these data points, we aim to build a predictive model that can accurately identify potential customer churn and assist the company in retaining valuable customers.**
 
-Stay tuned for updates on our progress and findings!
+**Stay tuned for updates on our progress and findings!**
