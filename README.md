@@ -1,5 +1,5 @@
 # Ecommerce_Customer_Churn_Analysis_and_Prediction
-
+<img src="https://github.com/Leangonplu/Times_Series_Analysis_ARIMA/blob/main/assets/image.jpg" alt="ML-cover" style="display: block; margin: 0 auto;">
 
 # Ecommerce Customer Churn Analysis and Prediction
 This project involves a comprehensive analysis and prediction of customer churn for a leading online E-commerce company. The goal is to identify customers who are likely to churn, enabling the company to take proactive measures, such as offering promotional deals to enhance customer retention.
